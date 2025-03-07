@@ -2,3 +2,4 @@
 .settings
 # build/classes/db
 # src/main/java/db
+src\main\webapp\WEB-INF\lib
